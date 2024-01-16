@@ -1,13 +1,13 @@
 {
-  "name": "slides-show",
+  "name": "card-slider",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/ameliapham/slides.git",
   "author": "ameliapham <ptt.huong.8895@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev" : "vite",
-    "build" : "vite build"
+    "dev": "vite",
+    "build": "vite build"
   },
   "dependencies": {
     "geist": "^1.2.1",
